@@ -5,6 +5,5 @@ public class Main {
 
         Converter converter = new Converter();
         System.out.println(converter.convert("andrzej"));
-
     }
 }
